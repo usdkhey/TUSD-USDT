@@ -8,7 +8,13 @@
 # Le bot ultime
 
 Dites adieu au livret A et faites fructifier votre argent pendant que vous dormez ! Il n'a jamais été aussi simple de gagner du pognon au 21ème siècle !
-Ce bot vous promet un rendement allant de 5 à 10% GARANTIS. Vous ne pouvez pas perdre !
+Ce bot vous promet un rendement allant de 5 à 10% par mois GARANTIS. Vous ne pouvez pas perdre !
+
+<p align="left">
+  <img width="100" height="70" src="https://image.noelshack.com/fichiers/2018/26/7/1530476579-reupjesus.png">
+</p>
+
+J'emmerde Aurélien avec ses AT bidon ! J'ai déjà gagné 12$ en 24h   
 
 Par un khey, pour les kheys. 
 
