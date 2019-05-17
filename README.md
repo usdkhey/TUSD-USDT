@@ -14,7 +14,7 @@ Par un khey, pour les kheys.
 
 ## Installation
 
-Clonez cette repo et éditez le fichier config.js pour y insérer vos clés API Binance.
+Clonez cette repo et éditez le fichier `config.js` pour y insérer vos clés API Binance.
 
 Installez NodeJS : [https://nodejs.org/en/](https://nodejs.org/en/)
 
@@ -24,8 +24,9 @@ npm install
 ```
 
 ## Utilisation
+Toujours dans le dossier du bot
 
-```python
+```bash
 node index.js
 ```
 
