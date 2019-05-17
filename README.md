@@ -34,7 +34,8 @@ Clonez cette repo et éditez le fichier `config.js` pour y insérer vos clés AP
 
 Installez NodeJS : [https://nodejs.org/en/](https://nodejs.org/en/)
 
-Puis dans le dossier du bot exécutez
+Rendez-vous dans le dossier du bot avec le terminal puis exécutez
+
 ```bash
 npm install
 ```
