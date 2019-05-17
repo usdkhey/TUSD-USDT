@@ -18,6 +18,16 @@ J'emmerde Aurélien avec ses AT bidon ! J'ai déjà gagné 12$ en 24h
 
 Par un khey, pour les kheys. 
 
+## Fonctionnement
+
+C'est assez simple mais il fallait y penser. Le bot trade les minuscules variations entre le TUSD et l'USDT. A chaque trade vous gagnez un peu plus que les fees Binance. Chaque trade est plus rentable que le précédent.
+
+<p align="left">
+  <img width="100" height="70" src="https://image.noelshack.com/fichiers/2017/51/2/1513675814-100000000.png">
+</p>
+
+Le plus beau ? Aucun risque de perdre de l'argent ! On ne peut que en gagner !
+
 ## Installation
 
 Clonez cette repo et éditez le fichier `config.js` pour y insérer vos clés API Binance.
@@ -30,6 +40,9 @@ npm install
 ```
 
 ## Utilisation
+
+Ayez au moins 20$ d'USDT ou de TUSD sur votre compte Binance.
+
 Toujours dans le dossier du bot
 
 ```bash
